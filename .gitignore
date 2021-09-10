@@ -1,0 +1,11 @@
+# Byte-compiled etc.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build files
+build
+MANIFEST
+site
+dist
+mkdocs_copy.egg-info
